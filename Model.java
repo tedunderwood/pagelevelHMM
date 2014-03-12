@@ -15,7 +15,7 @@ public class Model {
 	/**
 	 * @param args
 	 */
-	static String ridge = "3";
+	static String ridge = "0.01";
 	static int featureCount;
 	static Corpus corpus;
 	static int numGenres;
